@@ -1,0 +1,8 @@
+/*
+ * Asterisk (phosphor-icons/Asterisk@0.0.57)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/asterisk.js"
+export { default } from "../js/asterisk.js"

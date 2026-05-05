@@ -1,0 +1,8 @@
+/*
+ * ContactMail (material-icons/ContactMail@0.0.32)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/contactmail.js"
+export { default } from "../js/contactmail.js"

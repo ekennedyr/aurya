@@ -1,0 +1,8 @@
+/*
+ * Phone (material-icons/Phone@0.0.32)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/phone.js"
+export { default } from "../js/phone.js"
