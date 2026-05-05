@@ -2,6 +2,4 @@ node_modules
 .git
 .github
 .DS_Store
-Dockerfile
-nginx.conf
 .env
